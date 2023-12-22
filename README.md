@@ -3,7 +3,7 @@ Labs activities for the **Statistical learning and neural networks** course at [
 
 1. Lab 1
     * Exercise 1 - [Synthetic dataset](/notebooks/01-synthetic-dataset.ipynb)
-    * Exercise 2 - Phoneme recognition
+    * Exercise 2 - [Phoneme recognition](/notebooks/02-phoneme-recognition.ipynb)
     * Exercise 3 - User localization from RSSI
 2. Lab 2
 3. Lab 3
